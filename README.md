@@ -42,4 +42,19 @@ The values of three hyperparameters depend on the dataset:
 * threshold_3: The overclustering threshold &beta;<sub>o</sub>
 * overclustering: The number of overclusters n<sub>o</sub>
 
+# Citation
+@inproceedings{ijcai2023p540,
+  title     = {Toward Convex Manifolds: A Geometric Perspective for Deep Graph Clustering of Single-cell RNA-seq Data},
+  author    = {Mrabah, Nairouz and Amar, Mohamed Mahmoud and Bouguessa, Mohamed and Diallo, Abdoulaye Banire},
+  booktitle = {Proceedings of the Thirty-Second International Joint Conference on
+               Artificial Intelligence, {IJCAI-23}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Edith Elkind},
+  pages     = {4855--4863},
+  year      = {2023},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2023/540},
+  url       = {https://doi.org/10.24963/ijcai.2023/540},
+}
 
